@@ -1,0 +1,15 @@
+{
+    "type": "mysql",
+    "host": "mariadb",
+    "port": 3306,
+    "username": "root",
+    "password": "password",
+    "database": "agenda",
+    "synchronize": false,
+    "logging": true,
+    "entities": ["dist/**/*.entity.js"],
+    "migrations": ["dist/Application/infrastructure/persistence/typeorm/migrations/*.js"],
+    "cli":{
+      "migrationsDir": "src/Application/infrastructure/persistence/typeorm/migrations/"
+    }
+  }

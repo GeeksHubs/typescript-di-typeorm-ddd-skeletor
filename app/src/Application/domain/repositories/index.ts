@@ -1,0 +1,1 @@
+export { IUserRepository } from './iUser.repository';

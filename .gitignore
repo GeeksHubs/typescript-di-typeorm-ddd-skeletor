@@ -1,0 +1,6 @@
+db/
+src/dist/
+src/node_modules/
+src/package-lock.json
+src/yarn.lock
+src/logs
