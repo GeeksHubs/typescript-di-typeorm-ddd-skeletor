@@ -33,5 +33,5 @@ jobs:
         continue-on-error: true
 
       # Runs a set of commands using the runners shell
-      - name: Up Environment
-        run:  cd infrastructure && make docker-up 
+      - name: Install dependencies
+        run:  cd app && npm i
