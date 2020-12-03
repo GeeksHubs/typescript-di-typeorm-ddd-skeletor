@@ -8,7 +8,7 @@
 
 Example of a Nodejs application using TypeScript, Inversify and  TypeORM made with :two_hearts:
 
-![CI](https://github.com/GeeksHubsAcademy/typescript-di-typeorm-ddd-skeletor/workflows/CI/badge.svg?branch=master)
+<a href="https://github.com/GeeksHubsAcademy/typescript-di-typeorm-ddd-skeletor/actions">![CI](https://github.com/GeeksHubsAcademy/typescript-di-typeorm-ddd-skeletor/workflows/CI/badge.svg?branch=master)</a>
 
 If you like it, don't forget to give us some :star::star::star:
 
