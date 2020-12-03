@@ -6,7 +6,7 @@
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png">	
 </p>
 
-Example of a Nodejs application using TypeScript, Inversify abd  TypeORM made with :two_hearts:
+Example of a Nodejs application using TypeScript, Inversify and  TypeORM made with :two_hearts:
 
 If you like it, don't forget to give us some :star::star::star:
 
