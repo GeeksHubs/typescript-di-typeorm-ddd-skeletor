@@ -34,4 +34,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Up Environment
-        run:  cd /infrastructure && make docker-up 
+        run:  cd infrastructure && make docker-up 
