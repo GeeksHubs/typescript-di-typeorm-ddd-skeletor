@@ -8,7 +8,7 @@
 
 Example of a Nodejs application using TypeScript, Inversify abd  TypeORM made with :two_hearts:
 
-If you like it, don't forget to give us some :star::star:
+If you like it, don't forget to give us some :star::star::star:
 
 
 ## 🚀 Environment Setup
