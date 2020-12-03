@@ -35,3 +35,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Install dependencies
         run:  cd app && npm i
+        
+      # Runs a set of commands using the runners shell
+      - name: Execute Test
+        run:  cd app && npm run test
