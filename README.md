@@ -22,7 +22,7 @@ If you like it, don't forget to give us some :star::star::star:
 
 ## :arrow_forward: Start Application
 1. Run in a terminal :computer: `$> make docker-up`
-2. Run in t Other erminal :computer: `$>make docker-bootstrap` 
+2. Run in Other terminal :computer: `$>make docker-bootstrap` 
 3. Finally run: `$>make docker-watch`
 
 ## :battery: Testing Application
