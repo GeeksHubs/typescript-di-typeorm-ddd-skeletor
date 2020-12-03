@@ -28,7 +28,7 @@ If you like it, don't forget to give us some :star::star::star:
 ## :battery: Testing Application
 1. Run Jest in a terminal :computer: `$>make docker-test`
 
-## :superhero_woman: Contributing.
+## :superhero_woman: Contribute.
 Feel free to make as many pull requests as you think fit, because there are so many things to do, all help is welcome.
 
 Here is a guide if you want to take a look(https://github.com/GeeksHubsAcademy/2020-geekshubs-convenio/blob/master/contributing.md)
