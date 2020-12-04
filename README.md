@@ -12,6 +12,9 @@ Example of a Nodejs application using TypeScript, Inversify and  TypeORM made wi
 
 If you like it, don't forget to give us some :star::star::star:
 
+<a href="https://www.youtube.com/watch?v=VSBYwjJDrNE"> Here </a> is a video where you can see how to start it and how it works
+
+
 
 ## 🚀 Environment Setup
 
